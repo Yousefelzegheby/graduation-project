@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 
-import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:graduation/core/utiles/colors.dart';
 import 'package:graduation/core/utiles/styles.dart';
 import 'package:graduation/features/profile_settings/data/models/settingsModels.dart';

@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 import 'package:graduation/core/utiles/colors.dart';
 import 'package:graduation/core/utiles/path.dart';
-import 'package:graduation/core/utiles/styles.dart';
 import 'package:graduation/core/widgets/custom_button.dart';
 
 class GetStarted extends StatelessWidget {

@@ -1,10 +1,8 @@
 import 'package:flutter/material.dart';
 
-import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:go_router/go_router.dart';
 import 'package:graduation/core/utiles/colors.dart';
 import 'package:graduation/core/utiles/styles.dart';
-import 'package:graduation/core/widgets/custom_button_nav_bar.dart';
 import 'package:graduation/features/EditeProfile/presntation/view/widget/Edite-Profile-Body.dart';
 
 class EditeProfile extends StatelessWidget {
